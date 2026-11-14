@@ -1,77 +1,111 @@
 <div align="center">
-  <img src="./assets/hero.svg" alt="Rakan Osama — Software Engineer" width="100%" />
-  <br/><br/>
-  <a href="https://github.com/Rakan-osama"><img src="https://img.shields.io/badge/GitHub-101827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-0B766E?style=for-the-badge" alt="Open to opportunities"/>
+
+<img src="./assets/hero.svg" alt="Rakan Osama | Software Engineer" width="100%" />
+
+<br/>
+
+<a href="https://portfolio-two-iota-rescma6hc4.vercel.app/"><img alt="Portfolio" src="https://img.shields.io/badge/PORTFOLIO-Explore%20My%20Work-67E8D6?style=for-the-badge&labelColor=101827&color=0C776F"></a>
+<a href="https://www.linkedin.com/in/rakan-osama/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:rakanosama.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
+**Software Engineer · Backend & Full-Stack Developer · Egypt**
+
+*Architecting useful products and reliable systems — from APIs and data models to polished interfaces.*
+
 </div>
 
-### 👋 About me
-
-I'm **Rakan Osama**, a **Software Engineer** based in Egypt with **2+ years of professional experience** developing web applications, backend services, and business platforms.
-
-I enjoy turning complex requirements into maintainable software — from relational data models and secure REST APIs to full-stack interfaces, reporting workflows, and enterprise modules.
-
-- 🏗️ **Built:** CRM, HRMS, CMS, accounting workflows, real estate applications, and admin dashboards.
-- ⚙️ **Engineering focus:** clean architecture, OOP, SOLID, dependency injection, APIs, authentication, testing, performance, and database design.
-- 📊 **Data & enterprise:** SQL Server warehouse layers (Bronze → Silver → Gold), ESG reporting and GRI-aligned workflows.
-- 🌱 **Exploring:** Node.js, Express, Prisma, advanced system design and data engineering.
-- 🤝 **Open to:** Software Engineering, Backend, and Full-Stack opportunities.
-
 ---
 
-### ⚡ Tech stack
+## 01 / About me
 
-**Languages**
+I'm **Rakan Osama**, a software engineer with **2+ years of professional experience** delivering web applications and business software. My strongest focus is **PHP, Laravel, MySQL and backend engineering**, with full-stack experience across responsive interfaces and management platforms.
 
-<img src="https://skillicons.dev/icons?i=php,js,html,css,cs&theme=dark" alt="PHP JavaScript HTML CSS C sharp"/>
+I work on more than endpoints: **requirements, domain logic, data models, authorization, integration, performance and maintainability** all matter. My professional experience spans **CRM, HRMS, CMS, accounting modules, real-estate platforms, administration dashboards, and ESG reporting workflows**.
 
-**Backend & frameworks**
+- **Currently interested in:** system design, robust REST APIs, backend architecture, SQL data warehousing and modern JavaScript runtimes.
+- **Approach:** practical engineering, readable code, reliable business logic and scalable foundations.
+- **Open to opportunities:** Software Engineer · Backend Engineer · Full-Stack Engineer.
 
-<img src="https://skillicons.dev/icons?i=laravel,nodejs,express,prisma&theme=dark" alt="Laravel Node.js Express Prisma"/>
-
-**Frontend**
-
-<img src="https://skillicons.dev/icons?i=vue,nuxt,bootstrap,tailwind,vite&theme=dark" alt="Vue Nuxt Bootstrap Tailwind Vite"/>
-
-**Databases & developer tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,postman,npm,vscode&theme=dark" alt="MySQL SQLite Git GitHub Postman npm VS Code"/>
-
-**Additional:** SQL Server / SSMS · .NET · Laravel Sanctum · Livewire · Filament · Spatie · REST APIs · OAuth · PHPUnit / Pest
-
-<sub>My core professional stack is PHP/Laravel and web engineering. Other tools represent complementary experience or active learning; not all are at the same proficiency level.</sub>
-
----
-
-### 🧩 Selected projects
-
-| Project | Description | Focus |
-| :--- | :--- | :--- |
-| [**SQL Data Warehouse**](https://github.com/Rakan-osama/sql-data-warehouse-project) | SQL Server data warehouse with Bronze, Silver, and Gold layers. | ETL, transformations, data modeling |
-| [**Portfolio**](https://github.com/Rakan-osama/portfolio) | Personal portfolio application built with Laravel. | Full-stack web development |
-| [**ESG Reporting**](https://github.com/Rakan-osama/ESG_Report) | ESG / sustainability reporting work and standards-driven business workflows. | Validation, reporting, enterprise modules |
-| [**E-commerce**](https://github.com/Rakan-osama/E-commerce) | E-commerce application project. | Business logic and data management |
-| [**Desktop App**](https://github.com/Rakan-osama/desktop_app) | Desktop-oriented task and productivity project. | Product workflows, organization |
-
-**Other professional work:** CRM and HRMS modules, company websites, real estate platforms, payment/down-payment workflows, custom CMS dashboards, and integrated APIs.
-
----
-
-### 📈 GitHub insights
+## 02 / Technical toolkit
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rakan-osama&show_icons=true&hide_border=true&bg_color=0B1220&title_color=79E0D2&text_color=CCD8EB&icon_color=91A8FE" alt="GitHub statistics"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rakan-osama&layout=compact&hide_border=true&bg_color=0B1220&title_color=79E0D2&text_color=CCD8EB" alt="GitHub repository languages"/>
+
+**Core backend & languages**
+
+<img src="https://skillicons.dev/icons?i=php,laravel,js,mysql&theme=dark" alt="PHP Laravel JavaScript MySQL" />
+
+**Frontend & full-stack**
+
+<img src="https://skillicons.dev/icons?i=vue,nuxt,html,css,bootstrap,tailwind,vite&theme=dark" alt="Vue Nuxt HTML CSS Bootstrap Tailwind Vite" />
+
+**Additional backend & data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,prisma,sqlite,cs&theme=dark" alt="Node.js Express Prisma SQLite C sharp" />
+
+**Development tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm&theme=dark" alt="Git GitHub Postman VS Code npm" />
+
 </div>
 
-<sub>Stats are provided by a third-party service and may occasionally be unavailable. Repository language counts do not represent professional proficiency.</sub>
+**Engineering concepts:** OOP · SOLID · Dependency Injection · REST API Design · Authentication & Authorization · SQL Optimization · Queues · Caching · Testing · Database Modeling · Localization · Third-party Integrations
+
+**Laravel ecosystem:** Sanctum · Livewire · Filament · Spatie Permission/Media Library · Eloquent · Blade
+
+**Data and enterprise:** Microsoft SQL Server / SSMS · .NET exposure · ETL/ELT · Bronze/Silver/Gold Architecture · ESG / GRI Reporting Workflows
+
+> Tech icons show tools used or studied at different levels; my primary commercial stack is PHP / Laravel web engineering.
 
 ---
 
-### 🤝 Let's connect
+## 03 / Selected work
 
-I enjoy collaborating on useful products, designing reliable systems, and learning with engineering teams.
+| Project | Engineering focus | Links |
+| :--- | :--- | :--- |
+| **Personal Portfolio** | Laravel-based developer portfolio showcasing projects and experience, with a live public presentation. | [Live site](https://portfolio-two-iota-rescma6hc4.vercel.app/) · [Code](https://github.com/Rakan-osama/portfolio) |
+| **SQL Data Warehouse** | SQL Server warehouse exploring source ingestion, layered Bronze → Silver → Gold processing, data cleansing and analytics-ready modeling. | [Explore project](https://github.com/Rakan-osama/sql-data-warehouse-project) |
+| **ESG Reporting** | Sustainability disclosure and business-data reporting work, including GRI-related data organization, validation and reporting processes. | [Explore project](https://github.com/Rakan-osama/ESG_Report) |
+| **E-commerce** | Commerce-oriented application exploring product workflows and server-side business operations. | [Explore project](https://github.com/Rakan-osama/E-commerce) |
+| **Mawid** | Node.js / Express event application experiment with MySQL sessions, validation and security middleware. | [Explore project](https://github.com/Rakan-osama/Mawid) |
+| **Desktop App** | Productivity / task-management application project exploring organized workflows. | [Explore project](https://github.com/Rakan-osama/desktop_app) |
 
-**[Explore my repositories →](https://github.com/Rakan-osama?tab=repositories)**
+### Professional systems and modules
 
-<div align="center"><sub>Designing systems, not just writing code.</sub></div>
+- **CRM / HRMS / CMS:** customer, employee and content-management workflows; permissions, forms, dashboards and operations.
+- **Real estate & business management:** property-oriented applications, administrative flows, and down-payment / accounting-related features.
+- **APIs & integrations:** structured endpoints, access control, validation and business-service integrations.
+- **ESG reporting:** enterprise sustainability workflows, data validation and reporting concerns.
+
+*Some commercial projects are not publicly available; the repository links above are examples of publicly accessible work.*
+
+---
+
+## 04 / Engineering snapshot
+
+<div align="center">
+
+<img src="./assets/engineering-snapshot.svg" width="100%" alt="Software engineering expertise and experience" />
+
+</div>
+
+The overview above is stored **inside this repository**, so it won't fail if an external GitHub statistics service is temporarily unavailable.
+
+For current activity and language usage, visit **[GitHub repositories](https://github.com/Rakan-osama?tab=repositories)** and **[contribution history](https://github.com/Rakan-osama)**.
+
+---
+
+## 05 / Let's build something useful
+
+I'm interested in software that solves actual problems, strengthens business operations and grows sustainably.
+
+<div align="center">
+
+<a href="mailto:rakanosama.dev@gmail.com"><img src="https://img.shields.io/badge/EMAIL-rakanosama.dev%40gmail.com-1C2C44?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/rakan-osama/"><img src="https://img.shields.io/badge/LINKEDIN-Rakan%20Osama-1C2C44?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://portfolio-two-iota-rescma6hc4.vercel.app/"><img src="https://img.shields.io/badge/WEBSITE-Visit%20Portfolio-1C2C44?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+
+**Phone / WhatsApp:** [+20 101 055 6064](https://wa.me/201010556064)
+
+<sub>Designing systems, not just writing code.</sub>
+
+</div>
