@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#080E1B"/><stop offset="1" stop-color="#15233E"/></linearGradient><linearGradient id="a"><stop stop-color="#69E5D2"/><stop offset="1" stop-color="#9B9FFF"/></linearGradient><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#7692B4" stroke-opacity=".10"/></pattern></defs>
+<rect width="1200" height="360" rx="18" fill="url(#bg)"/><rect width="1200" height="360" rx="18" fill="url(#g)"/><rect x="29" y="28" width="1142" height="304" rx="12" fill="none" stroke="#6E8CB0" stroke-opacity=".3"/>
+<text x="80" y="92" fill="#71E6D4" font-family="Arial,sans-serif" font-weight="bold" letter-spacing="4" font-size="16">BUILDING WHAT SCALES</text>
+<text x="78" y="173" fill="#F3F7FF" font-family="Arial,sans-serif" font-size="68" font-weight="bold">RAKAN OSAMA</text>
+<path d="M81 191h115" stroke="#71E6D4" stroke-width="4" stroke-linecap="round"/>
+<text x="80" y="242" fill="#C1D2ED" font-family="Arial,sans-serif" font-size="29">Software Engineer</text>
+<text x="80" y="283" fill="#A6BBD6" font-family="Arial,sans-serif" font-size="18">Backend Systems  ·  Full-Stack Applications  ·  Data Engineering</text>
+<circle cx="1030" cy="177" r="110" fill="none" stroke="#668FC9" stroke-opacity=".4"/><circle cx="1030" cy="177" r="78" fill="none" stroke="#8BA4D5" stroke-dasharray="5 8"/><circle cx="1030" cy="177" r="52" fill="#182944" stroke="#79B4E9"/>
+<path d="m1015 155-20 22 20 22m30-44 20 22-20 22m-6-50-18 59" fill="none" stroke="url(#a)" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
